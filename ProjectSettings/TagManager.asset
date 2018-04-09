@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - pain
+  - dot
   layers:
   - Default
   - TransparentFX
@@ -49,4 +51,7 @@ TagManager:
     locked: 0
   - name: foreground
     uniqueID: 1808356779
+    locked: 0
+  - name: UI
+    uniqueID: 2249281747
     locked: 0
